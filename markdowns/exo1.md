@@ -4,4 +4,4 @@ As your first exercice you may have to print a "Hello World". A really basic & w
 
 ## Just do it
 
-@[First exercice]({"stubs":"hello_world.abd","command":"sh start.sh","project":"exo1"})
+@[First exercice]({"stubs": ["hello_world.adb"], "command": "sh start.sh", "project":"exo1"})
