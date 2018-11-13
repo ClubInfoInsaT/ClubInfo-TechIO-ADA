@@ -7,3 +7,4 @@ plan:
 projects:
 	exo1:
 		root: /projets/exo1
+		runner: nseydoux/ada-tutorial:lesson_0
