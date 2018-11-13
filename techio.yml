@@ -2,7 +2,8 @@ title: Test Playground
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
-
+- title: Exercice 1
+  statement : markdowns/exo1.md
 
 projects:
   exo1:
