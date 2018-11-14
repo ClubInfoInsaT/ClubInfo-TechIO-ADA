@@ -12,4 +12,4 @@ then
 else
 	echo "TECHIO> success false"
 fi
-return $res
+echo "$res"
