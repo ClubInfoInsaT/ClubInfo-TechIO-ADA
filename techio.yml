@@ -1,6 +1,6 @@
 title: Test Playground
 plan:
-- title: Welcome
+- title: Accueil
   statement: markdowns/welcome.md
 - title: Exercice 1
   statement : markdowns/exo1.md
