@@ -7,7 +7,7 @@ res=`./hello_world`
 correct=`./hello_world_correction`
 if [ "$res" = "$correct" ]
 then
-	return 0
+	success true
 else
-	echo 1
+	success false
 fi
