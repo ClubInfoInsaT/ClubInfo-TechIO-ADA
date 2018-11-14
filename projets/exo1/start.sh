@@ -7,7 +7,7 @@ res=`./hello_world`
 correct=`./hello_world_correction`
 if [ "$res" = "$correct" ]
 then
-	success true
+	echo "TECHIO> success true"
 else
-	success false
+	echo "TECHIO> success false"
 fi
