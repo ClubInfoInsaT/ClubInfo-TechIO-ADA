@@ -11,7 +11,7 @@ Vous avez dû rencontrer ce genre d'image dans votre cours. Les flèches qui ren
 Dans l'exemple ci-dessus, vu dans vos TPs, on a deux arguments (`Cap_Actuel` et `Cap_Voulu`), on passe ces deux arguments à notre "boîte" qui nous renvoit un float.
 
 
-## Procedure & Fonctions
+## Procedure & Fonctions
 
 Nous allons maintenant parler du coeur de vos difficultés au premier semestre : la différence entre fonctions et procédures.
 
@@ -24,4 +24,30 @@ Exemple simple, si je demande à un camarade de me ramener un café, étant donn
 Parlons maintenant des procédures. Une prodécure c'est juste une liste d'action qui ne renvoit rien. Par exemple, si je vous demande d'écrire dans votre cahier, c'est une procédure. En effet, je vous demande pas de me donner quelque chose.
 
 ![Note ton cours](Exemple_procedure_ecris_ton_cours.png)
+
+## Petit test
+
+?[Une fonction a forcément un argument ?]
+-[x] Oui
+-[ ] Non
+
+?[Une procédure a forcément un argument ?]
+-[x] Oui
+-[ ] Non
+
+?[Une procédure a forcément une sortie ?]
+-[ ] Oui
+-[x] Non
+
+?[Une fonction a forcément une sortie ?]
+-[x] Oui
+-[ ] Non
+
+?[Si on me demande d'écrire d'additionner deux chiffres et de dire le résultat, c'est une : ]
+-[x] Fonction
+-[ ] Procédure
+
+?[Si on me demande d'aller regarder une vidéo youtube, c'est une : ]
+-[ ] Fonction
+-[x] Procédure
 
