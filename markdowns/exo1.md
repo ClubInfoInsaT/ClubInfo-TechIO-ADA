@@ -1,7 +1,7 @@
-# First exercice
+# Exercice 1 : Se mettre dans le bain
 
-As your first exercice you may have to print a "Hello World". A really basic & well-known exercice.
+Pour votre premier exercice, je ne vous demanderai qu'une seule chose. Afficher "Hello World!".
 
 ## Just do it
-I need you to print exactly "Hello World!". Read it carefully.
+Faîtes attention, je vous demande juste d'afficher, pas la peine d'en faire trop. 
 @[First exercice]({"stubs": ["hello_world.adb"], "command": "sh start.sh", "project":"exo1"})

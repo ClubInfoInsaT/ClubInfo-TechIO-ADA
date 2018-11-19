@@ -1,5 +1,5 @@
 with Text_IO;
 procedure Hello_World is
 	begin
-		-- write something over here
+		-- Ecrivez ici
 end Hello_World;
