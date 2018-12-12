@@ -28,12 +28,12 @@ Parlons maintenant des procédures. Une prodécure c'est juste une liste d'actio
 ## Petit test
 
 ?[Une fonction a forcément un argument ?]
--[x] Oui
--[ ] Non
+-[ ] Oui
+-[x] Non
 
 ?[Une procédure a forcément un argument ?]
--[x] Oui
--[ ] Non
+-[ ] Oui
+-[x] Non
 
 ?[Une procédure a forcément une sortie ?]
 -[ ] Oui
