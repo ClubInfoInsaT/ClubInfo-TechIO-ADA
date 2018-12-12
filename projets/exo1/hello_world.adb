@@ -1,7 +1,7 @@
 with GAda.Text_IO;
-procedure Hello is
+procedure Hello_world is
 	begin
-		GAda.Text_IO.Put("Hello");
+		GAda.Text_IO.Put("Hello_world");
     GAda.Text_IO.New_Line;
     GAda.Text_IO.Put_Line("Tapez une chaine ");
     GAda.Text_IO.Put_Line(GAda.Text_IO.Normalise("AAAA",3)&" OK");
@@ -17,4 +17,4 @@ procedure Hello is
     end;
 		GAda.Text_IO.Put("Test replace");
 		GAda.Text_IO.Replace("Nope");
-end Hello;
+end Hello_world;
