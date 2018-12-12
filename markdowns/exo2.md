@@ -4,6 +4,10 @@
 
 Ici nous allons parler de fonctions, procédures, arguments etc.
 
+```ada runnable
+Text_IO.Put("Hello");
+```
+
 ![First example](First_example.png)
 
 Vous avez dû rencontrer ce genre d'image dans votre cours. Les flèches qui rentre dans la boîte sont les arguments. Et ceux qui sortent c'est les résultats, s'il y en a.
