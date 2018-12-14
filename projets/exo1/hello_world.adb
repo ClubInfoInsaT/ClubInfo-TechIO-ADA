@@ -10,11 +10,6 @@ procedure Hello_world is
     GAda.Text_IO.Put('C');
     GAda.Text_IO.Put_Line('D');
     GAda.Text_IO.Put("Tapez une chaine ");
-    declare
-      text: String :=GAda.Text_IO.FGet; 
-      begin
-      GAda.Text_IO.Put_Line("New Value "&text);
-    end;
 		GAda.Text_IO.Put("Test replace");
 		GAda.Text_IO.Replace("Nope");
 end Hello_world;
