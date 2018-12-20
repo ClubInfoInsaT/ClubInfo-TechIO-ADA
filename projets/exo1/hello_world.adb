@@ -9,7 +9,4 @@ procedure Hello_world is
     GAda.Text_IO.Put_Line(GAda.Text_IO.Normalise("C",3)& "Nook");
     GAda.Text_IO.Put('C');
     GAda.Text_IO.Put_Line('D');
-    GAda.Text_IO.Put("Tapez une chaine ");
-		GAda.Text_IO.Put("Test replace");
-		GAda.Text_IO.Replace("Nope");
 end Hello_world;
