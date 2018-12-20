@@ -1,4 +1,4 @@
 #! /bin/bash
 
-gnatmake -q hello_world.adb
+gnatmake Ia/Sources hello_world.adb
 ./hello_world
