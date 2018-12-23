@@ -9,9 +9,9 @@ plan:
   description: "Exercices de bases."
   plan:
   - title : "Base : exercice 1"
-    statement: markdowns/base_appel_1.md
+    statement: markdowns/Base_appel_1.md
   - title : "Base : exercice 2"
-    statement: markdowns/base_appel_2.md
+    statement: markdowns/Base_appel_2.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
