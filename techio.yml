@@ -5,13 +5,15 @@ plan:
   plan:
   - title: Introduction
     statement: markdowns/welcome.md
-- title: "Base : appel de procédure et de fonction"
+- title: "Appel de procédure"
   description: "Exercices de bases."
   plan:
-  - title : "Base : exercice 1"
+  - title : "Appels de fonctions et procédures"
     statement: markdowns/Base/Base_appel_1.md
-  - title : "Base : exercice 2"
+  - title : "Appel de fonction"
     statement: markdowns/Base/Base_appel_2.md
+	- title : "Procédure de test ou comment récupérer le résultat d'une fonction"
+		statement: markdowns/Base/Base_appel_3.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
