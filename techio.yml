@@ -4,7 +4,7 @@ plan:
   description: "Page d'accueil du Tech.io"
   plan:
   - title: Introduction
-  statement: markdowns/welcome.md
+    statement: markdowns/welcome.md
 - title: "Base : appel de procédure et de fonction"
   description: "Exercices de bases."
   plan:
