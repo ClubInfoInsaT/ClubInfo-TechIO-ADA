@@ -1,16 +1,22 @@
 title: Club'Info INSAT - Ada Playground
 plan:
 - title: Accueil
+  description: "Page d'accueil du Tech.io"
+  plan:
+  - title: Introduction
   statement: markdowns/welcome.md
 - title: "Base : appel de procédure et de fonction"
   description: "Exercices de bases."
   plan:
   - title : "Base : Exercice 1"
     statement: markdowns/Base_appel_1.md
-- title: Exercice 1
-  statement : markdowns/exo1.md
-- title : Exercice 2
-  statement : markdowns/exo2.md
+- title: "Bonus"
+  description: "Bonus content"
+  plan:
+  - title: Exercice 1
+    statement : markdowns/exo1.md
+  - title : Exercice 2
+    statement : markdowns/exo2.md
 
 
 projects:
