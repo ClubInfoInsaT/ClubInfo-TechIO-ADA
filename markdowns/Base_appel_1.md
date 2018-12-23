@@ -15,6 +15,6 @@ En ne complétant que les deux zones indiquées dans le programme, faites en sor
 -[ ] Oui
 -[x] Non
 
-?[?]
--[ ]
--[ ]
+?[Comment afficher la valeur de X² - 12X ? (sans modifier X, ni la procédure Afficher) ?]
+-[x] Appeler afficher avec la fonction.
+-[ ] Non.
