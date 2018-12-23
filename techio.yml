@@ -25,3 +25,6 @@ projects:
   Base_appel:    
     root: /projets/Base_appel
     runner: walleza1/insa_ada:latest
+  Base_appel:
+    root: /projets/Bonus
+    runner: walleza1/insa_ada:latest

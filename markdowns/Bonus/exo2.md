@@ -5,10 +5,13 @@
 Ici nous allons parler de fonctions, procédures, arguments etc.
 
 ```ada runnable
-Text_IO.Put("Hello");
+procedure Main is
+	begin
+		-- complete
+end Main;
 ```
 
-![First example](First_example.png)
+![First example](/ressources/Bonus/First_example.png)
 
 Vous avez dû rencontrer ce genre d'image dans votre cours. Les flèches qui rentre dans la boîte sont les arguments. Et ceux qui sortent c'est les résultats, s'il y en a.
 
@@ -23,11 +26,11 @@ En gros, notez bien ceci : si vous devez renvoyer quelque chose c'est une foncti
 
 Exemple simple, si je demande à un camarade de me ramener un café, étant donné qu'il me rapporte un café c'est une fonction. Pour se ramener à l'exemple du dessus, `Delta_Cap` est bien une fonction. 
 
-![Bring me my coffee boy](Exemple_function_café.png)
+![Bring me my coffee boy](/ressources/Bonus/Exemple_function_café.png)
 
 Parlons maintenant des procédures. Une prodécure c'est juste une liste d'action qui ne renvoit rien. Par exemple, si je vous demande d'écrire dans votre cahier, c'est une procédure. En effet, je vous demande pas de me donner quelque chose.
 
-![Note ton cours](Exemple_procedure_ecris_ton_cours.png)
+![Note ton cours](/ressources/Bonus/Exemple_procedure_ecris_ton_cours.png)
 
 ## Petit test
 
