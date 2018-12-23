@@ -2,7 +2,7 @@ title: Club'Info INSAT - Ada Playground
 plan:
 - title: Accueil
   statement: markdowns/welcome.md
-- title: Accueil
+- title: Base : appel de procédure et de fonction
   statement: markdowns/Base_appel_1.md
 - title: Exercice 1
   statement : markdowns/exo1.md
