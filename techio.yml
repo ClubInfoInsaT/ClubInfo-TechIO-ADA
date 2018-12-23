@@ -4,9 +4,9 @@ plan:
   statement: markdowns/welcome.md
 - title: "Base : appel de procédure et de fonction"
   description: "Exercices de bases."
-  - plan:
-    - title : "Base : Exercice 1"
-      statement: markdowns/Base_appel_1.md
+  plan:
+  - title : "Base : Exercice 1"
+    statement: markdowns/Base_appel_1.md
 - title: Exercice 1
   statement : markdowns/exo1.md
 - title : Exercice 2
