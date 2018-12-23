@@ -2,6 +2,8 @@ title: Club'Info INSAT - Ada Playground
 plan:
 - title: Accueil
   statement: markdowns/welcome.md
+- title: Accueil
+  statement: markdowns/Base_appel_1.md
 - title: Exercice 1
   statement : markdowns/exo1.md
 - title : Exercice 2
@@ -9,6 +11,6 @@ plan:
 
 
 projects:
-  exo1:
-    root: /projets/exo1
+	Base_appel:    
+		root: /projets/Base_appel
     runner: walleza1/insa_ada:latest

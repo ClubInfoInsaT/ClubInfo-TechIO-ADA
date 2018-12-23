@@ -4,4 +4,4 @@ Pour votre premier exercice, je ne vous demanderai qu'une seule chose. Afficher 
 
 ## Just do it
 Faîtes attention, je vous demande juste d'afficher, pas la peine d'en faire trop. 
-@[First exercice]({"stubs": ["hello_world.adb"], "command": "sh start.sh", "project":"exo1"})
+@[First exercice]({"stubs": ["hello_world.adb"], "command": "sh start.sh hello_world.adb", "project":"Base_appel"})
