@@ -1,4 +1,3 @@
 #! /bin/bash
 
-gnatmake -aI/Sources $1 -o exe
-./exe
+gnatmake -aI/Sources $1 -o exe && ./exe
