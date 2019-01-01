@@ -14,6 +14,11 @@ plan:
     statement: markdowns/Base/Base_appel_2.md
   - title : "Comment récupérer le résultat d'une fonction"
     statement: markdowns/Base/Base_appel_3.md
+- title: "Exercices divers"
+	description: "Exercices de base 2."
+	plan:
+	- title: "Factorielle"
+		statement : markdowns/Base_2/Factorielle.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
@@ -27,6 +32,9 @@ projects:
   Base_appel:    
     root: /projets/Base_appel
     runner: walleza1/insa_ada:latest
+	Base_2:
+		root: /projets/Base_2
+		runner: walleza1/insa_ada:latest
   Bonus:
     root: /projets/Bonus
     runner: walleza1/insa_ada:latest

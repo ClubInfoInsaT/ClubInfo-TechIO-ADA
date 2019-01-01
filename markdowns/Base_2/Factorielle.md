@@ -8,6 +8,9 @@
 
 ![Factorielle](/ressources/Base_2/Factorielle.png)
 
+@[Factorielle]({"stubs":["mission1.adb"],"command":"sh start.sh mission1.adb","project":"Base_2"})
+
+
 * Écrivez une procédure de test pertinente, et invoquez votre procédure de test pour les entiers de 0 à 8.
 Votre test devrait afficher : 
 
