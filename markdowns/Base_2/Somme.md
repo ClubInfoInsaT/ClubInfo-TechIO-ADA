@@ -8,7 +8,7 @@
 
 ![Somme n](/ressources/Base_2/Somme_n.png)
 
-@[Somme de 1 à n]({"stubs:"mission2.adb","command":"sh start.sh mission2.adb","project":"Base_2"})
+@[Somme de 1 à n]({"stubs":"mission2.adb","command":"sh start.sh mission2.adb","project":"Base_2"})
 
 * Cette fonction calcule la somme des entiers de 1 à N (N étant l'argument reçu par la fonction). 
 
