@@ -28,6 +28,9 @@ plan:
     statement : markdowns/Bonus/exo1.md
   - title : Exercice 2
     statement : markdowns/Bonus/exo2.md
+  - title : Test 3
+    statement : markdowns/Bonus/exo3.md
+
 
 
 projects:
