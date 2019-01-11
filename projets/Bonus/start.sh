@@ -1,4 +1,2 @@
 #! /bin/bash
-gnatmake -aI/Sources $1 -o exe
-sleep 5
-echo "TECHIO> terminal -i ./exe"
+echo "TECHIO> terminal -i gnatmake -aI/Sources $1 -o exe ./exe"
