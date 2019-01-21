@@ -9,10 +9,11 @@ TERMINATED=0
 
 
 while [ $TERMINATED -ne 1 ];do
+	result=`ps aux | grep -i "myscript.sh" | grep -v "grep" | wc -l`
 	if [ $result -eq 2 ]
 		then RUNNING=1
 	else
-		if [ $result -eq 1]
+		if [ $result -eq 1 ]
 			then 
 				if [ $RUNNING -eq 1 ]
 					then TERMINATED=1
