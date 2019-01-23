@@ -10,9 +10,12 @@ while [ $terminated -ne 1 ];do
 	if [ $res -gt 1 ]
 		then running=1
 	else
-		if [ $running -eq 1 ]
-			then terminated=1
-		fi	
+		if [ $res -eq 1 ]
+		then
+			if [ $running -eq 1 ]
+				then terminated=1
+			fi	
+		fi
 	fi
 	sleep 1
 done
