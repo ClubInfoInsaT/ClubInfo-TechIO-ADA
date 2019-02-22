@@ -1,6 +1,6 @@
 # Exercices divers
 
-## Exercice 1 : Factorielle
+## Exercice 1 : Factorielle
 
 ### Exercice pratique
 

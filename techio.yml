@@ -21,6 +21,8 @@ plan:
     statement : markdowns/Base_2/Factorielle.md
   - title: "Somme de 1 à n"
     statement : markdowns/Base_2/Somme.md
+  - title: "Calcul de min,max et moyenne"
+    statement : markdowns/Base_2/max-min.md
 - title: "Bonus"
   description: "Bonus content"
   plan:

@@ -8,22 +8,15 @@
 * Modifiez le programme pour qu'il tourne sans cesse jusqu'à ce que l'utilisateur rentre la valeur 0.
 * Faites en sorte que le programme calcule la moyenne des entiers rentrés au clavier et qu'il l'affiche à la fin du programme.
 * Enfin, afficher également à la fin la valeur minimale (sans compter le 0) et la valeur maximale.
-* Voici un exemple d'exécution du programme :
+
+* Attention ! Les arguments sont à compléter dans le fichier secondaire arguments_3.
 
 ```
-Bonjour, entrez des nombres et terminez par 0.
-
-    Votre nombre ? 10
-    Votre nombre ? 12
-    Votre nombre ? 14
-    Votre nombre ? 8
-    Votre nombre ? 0
-
 Moyenne des nombres : 11.0
 Valeur maximale : 14
 Valeur minimale : 8
 ```
 
-@[Saisie de valeurs et calcul de min, max, moyenne]({"stubs":["mission3.adb"],"command":"sh start.sh mission3.adb","project":"Base_2"})
+@[Saisie de valeurs et calcul de min, max, moyenne]({"stubs":["mission3.adb"],"command":"sh interactive.sh mission3.adb arguments_3","project":"Base_2"})
 
  
