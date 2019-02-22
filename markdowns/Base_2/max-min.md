@@ -17,6 +17,6 @@ Valeur maximale : 14
 Valeur minimale : 8
 ```
 
-@[Saisie de valeurs et calcul de min, max, moyenne]({"stubs":["mission3.adb"],"command":"sh interactive.sh mission3.adb arguments_3","project":"Base_2"})
+@[Saisie de valeurs et calcul de min, max, moyenne]({"stubs":["mission3.adb", "arguments_3"],"command":"sh interactive.sh mission3.adb arguments_3","project":"Base_2"})
 
  
