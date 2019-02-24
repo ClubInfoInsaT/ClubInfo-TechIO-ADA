@@ -30,6 +30,8 @@ plan:
   plan:
   - title: "Algorigramme simple"
     statement: markdowns/Algorigramme/Algo_simple.md
+  - title: "Algorigramme complet"
+    statement: markdowns/Algorigramme/Algo_complet.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
