@@ -9,7 +9,7 @@
 * Faites en sorte que le programme calcule la moyenne des entiers rentrés au clavier et qu'il l'affiche à la fin du programme.
 * Enfin, afficher également à la fin la valeur minimale (sans compter le 0) et la valeur maximale.
 
-* Attention ! Les arguments sont à compléter dans le fichier secondaire arguments_3.
+* Attention ! Les arguments sont à compléter dans le fichier secondaire arguments_3. Chaque argument doit être écrit sur une seule ligne.
 
 ```
 Moyenne des nombres : 11.0
