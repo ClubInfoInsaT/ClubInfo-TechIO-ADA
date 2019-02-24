@@ -25,6 +25,11 @@ plan:
     statement : markdowns/Base_2/max-min.md
   - title: "Résolution de polynomes du 2nd degré."
     statement: markdowns/Base_2/polynome.md
+- title: "Conversion d'algorigramme"
+  description: "Conversion d'algorigramme"
+  plan:
+  - title: "Algorigramme simple"
+    statement: markdowns/Algorigramme/Algo_simple.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
@@ -46,4 +51,7 @@ projects:
     runner: walleza1/insa_ada:latest
   Bonus:
     root: /projets/Bonus
+    runner: walleza1/insa_ada:latest
+  Algorigramme:
+    root: /projets/Algorigramme
     runner: walleza1/insa_ada:latest
