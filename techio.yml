@@ -32,6 +32,8 @@ plan:
     statement: markdowns/Algorigramme/Algo_simple.md
   - title: "Algorigramme complet"
     statement: markdowns/Algorigramme/Algo_complet.md
+  - title: "Algorigramme Complet > Exam"
+    statement: markdowns/Algorigramme/Algo_hard.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
