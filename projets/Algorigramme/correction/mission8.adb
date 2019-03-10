@@ -1,6 +1,6 @@
 with Gada.Text_IO ;
 
-procedure Missionp1 is
+procedure Mission8 is
    
    package Txt renames Gada.Text_IO ;
    
@@ -65,4 +65,4 @@ begin
       Tester_Secret(N => I) ;
    end loop ;     
    
-end Missionp1 ;
+end Mission8 ;

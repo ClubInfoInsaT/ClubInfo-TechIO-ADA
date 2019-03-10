@@ -34,6 +34,11 @@ plan:
     statement: markdowns/Algorigramme/Algo_complet.md
   - title: "Algorigramme Complet > Exam"
     statement: markdowns/Algorigramme/Algo_hard.md
+- title: "Passage d'arguments et type article"
+  description: "Passage d'arguments et type article"
+  plan:
+  - title: "Type record en argument d'une procédure"
+    statement: markdowns/t_article/Afficher.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
@@ -58,4 +63,7 @@ projects:
     runner: walleza1/insa_ada:latest
   Algorigramme:
     root: /projets/Algorigramme
+    runner: walleza1/insa_ada:latest
+  t_article:
+    root: /projets/t_article
     runner: walleza1/insa_ada:latest
