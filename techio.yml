@@ -1,60 +1,60 @@
 title: Club'Info INSAT - Ada Playground
 plan:
 - title: Accueil
-  description: "Page d'accueil du Tech.io"
+  statement: markdowns/welcome.md
+- title: Semestre 1
+  description: "Insa Semestre 1"
   plan:
-  - title: Introduction
-    statement: markdowns/welcome.md
-- title: "Appel de procédure"
-  description: "Exercices de bases."
-  plan:
-  - title : "Appels de fonctions et procédures"
-    statement: markdowns/Base/Base_appel_1.md
-  - title : "Appel de fonction"
-    statement: markdowns/Base/Base_appel_2.md
-  - title : "Comment récupérer le résultat d'une fonction"
-    statement: markdowns/Base/Base_appel_3.md
-- title: "Exercices divers"
-  description: "Exercices de base 2."
-  plan:
-  - title: "Factorielle"
-    statement : markdowns/Base_2/Factorielle.md
-  - title: "Somme de 1 à n"
-    statement : markdowns/Base_2/Somme.md
-  - title: "Calcul de min,max et moyenne"
-    statement : markdowns/Base_2/max-min.md
-  - title: "Résolution de polynomes du 2nd degré."
-    statement: markdowns/Base_2/polynome.md
-- title: "Conversion d'algorigramme"
-  description: "Conversion d'algorigramme"
-  plan:
-  - title: "Algorigramme simple"
-    statement: markdowns/Algorigramme/Algo_simple.md
-  - title: "Algorigramme complet"
-    statement: markdowns/Algorigramme/Algo_complet.md
-  - title: "Algorigramme Complet > Exam"
-    statement: markdowns/Algorigramme/Algo_hard.md
-- title: "Passage d'arguments et type article"
-  description: "Passage d'arguments et type article"
-  plan:
-  - title: "Type record en argument d'une procédure"
-    statement: markdowns/t_article/Afficher.md
-- title: "Exercice sur une collection de données"
-  description: "Exercice pour gérer les collections de données."
-  plan:
-  - title: "Recherche d'extremum"
-    statement: markdowns/collec/Exo1.md
-  - title: "Exercice complet sur une collection"
-    statement: markdowns/collec/Exo2.md
-- title: "Bonus"
-  description: "Bonus content"
-  plan:
-  - title: Exercice 1
-    statement : markdowns/Bonus/exo1.md
-  - title : Exercice 2
-    statement : markdowns/Bonus/exo2.md
-  - title : Test 3
-    statement : markdowns/Bonus/exo3.md
+  - title: "Appel de procédure"
+    description: "Exercices de bases."
+    plan:
+    - title : "Appels de fonctions et procédures"
+      statement: markdowns/Base/Base_appel_1.md
+    - title : "Appel de fonction"
+      statement: markdowns/Base/Base_appel_2.md
+    - title : "Comment récupérer le résultat d'une fonction"
+      statement: markdowns/Base/Base_appel_3.md
+  - title: "Exercices divers"
+    description: "Exercices de base 2."
+    plan:
+    - title: "Factorielle"
+      statement : markdowns/Base_2/Factorielle.md
+    - title: "Somme de 1 à n"
+      statement : markdowns/Base_2/Somme.md
+    - title: "Calcul de min,max et moyenne"
+      statement : markdowns/Base_2/max-min.md
+    - title: "Résolution de polynomes du 2nd degré."
+      statement: markdowns/Base_2/polynome.md
+  - title: "Conversion d'algorigramme"
+    description: "Conversion d'algorigramme"
+    plan:
+    - title: "Algorigramme simple"
+      statement: markdowns/Algorigramme/Algo_simple.md
+    - title: "Algorigramme complet"
+      statement: markdowns/Algorigramme/Algo_complet.md
+    - title: "Algorigramme Complet > Exam"
+      statement: markdowns/Algorigramme/Algo_hard.md
+  - title: "Passage d'arguments et type article"
+    description: "Passage d'arguments et type article"
+    plan:
+    - title: "Type record en argument d'une procédure"
+      statement: markdowns/t_article/Afficher.md
+  - title: "Exercice sur une collection de données"
+    description: "Exercice pour gérer les collections de données."
+    plan:
+    - title: "Recherche d'extremum"
+      statement: markdowns/collec/Exo1.md
+    - title: "Exercice complet sur une collection"
+      statement: markdowns/collec/Exo2.md
+  - title: "Bonus"
+    description: "Bonus content"
+    plan:
+    - title: Exercice 1
+      statement : markdowns/Bonus/exo1.md
+    - title : Exercice 2
+      statement : markdowns/Bonus/exo2.md
+    - title : Test 3
+      statement : markdowns/Bonus/exo3.md
 
 
 
