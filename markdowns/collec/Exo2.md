@@ -34,6 +34,6 @@ Cette fonction reçoit en argument un numéro de département et renvoie un arti
 
 :::Solution
 
-@[Algo]({"stubs":["correction/mission5b.adb"],"command":"sh start.sh correction/mission5b.adb","project":"collec"})
+@[Algo]({"stubs":["corrections/mission5b.adb"],"command":"sh start.sh corrections/mission5b.adb","project":"collec"})
 
 :::

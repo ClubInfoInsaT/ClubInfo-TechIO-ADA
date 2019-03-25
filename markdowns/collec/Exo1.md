@@ -24,6 +24,6 @@ Pour tester, affichez le nom et les dates du roi ayant régné le plus longtemps
 
 ::: Soluce
 
-@[Algo]({"stubs":["correction/mission5.adb"],"command":"sh start.sh correction/mission5.adb","project":"collec"})
+@[Algo]({"stubs":["corrections/mission5.adb"],"command":"sh start.sh corrections/mission5.adb","project":"collec"})
 
 :::
