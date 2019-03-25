@@ -75,5 +75,5 @@ projects:
     root: /projets/t_article
     runner: walleza1/insa_ada:latest
   collec:
-    root: /projets/t_article
+    root: /projets/collec
     runner: walleza1/insa_ada:latest
