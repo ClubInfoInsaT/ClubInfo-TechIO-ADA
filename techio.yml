@@ -39,6 +39,13 @@ plan:
   plan:
   - title: "Type record en argument d'une procédure"
     statement: markdowns/t_article/Afficher.md
+- title: "Exercice sur une collection de données"
+  description: "Exercice pour gérer les collections de données."
+  plan:
+  - title: "Recherche d'extremum"
+    statement: markdowns/collec/Exo1.md
+  - title: "Exercice complet sur une collection"
+    statement: markdowns/collec/Exo2.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
