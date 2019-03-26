@@ -3,20 +3,20 @@
 
 * Écrivez une procédure `Afficher_Ville` qui respecte le schéma suivant : 
 
-![Afficher_ville](/ressources/collec/Afficher_Ville.png)
+![Afficher_ville](/ressources/S1/collec/Afficher_Ville.png)
 
 Cette procédure affiche les infos reçues en argument : nom de la ville, code postal, et population 2010.
 
 
 * Écrivez une procédure `Afficher_Departement` qui reçoit en argument un numéro de département et affiche les infos de toutes les communes du département.
 
-![Afficher_Departement](/ressources/collec/Afficher_Departement.png)
+![Afficher_Departement](/ressources/S1/collec/Afficher_Departement.png)
 
 * Écrivez une fonction sans argument `Desert` qui renvoie le numéro de la commune ayant le moins d'habitants en 2010. Pour tester, afficher les infos de cette commune (vous trouverez une commune de Haute-Garonne avec 5 habitants).
 
 * **Exercice suprême** : écrivez une fonction `Fiche_Departement` qui respecte le schéma suivant :
 
-![Fiche_Departement](/ressources/collec/Fiche_Departement.png)
+![Fiche_Departement](/ressources/S1/collec/Fiche_Departement.png)
 
 Cette fonction reçoit en argument un numéro de département et renvoie un article de type `T_Fiche` comprenant :
 
@@ -30,10 +30,10 @@ Cette fonction reçoit en argument un numéro de département et renvoie un arti
 
 Écrivez une procédure `Tester_Departements` qui, pour tous les départements, affiche les informations recueillies par Fiche_Departement. Vous pourrez vérifier la vraisemblance des résultats sur Wikipédia. 
 
-@[Algo]({"stubs":["mission5b.adb"],"command":"sh start.sh mission5b.adb","project":"collec"})
+@[Algo]({"stubs":["mission5b.adb"],"command":"sh start.sh mission5b.adb","project":"S1_collec"})
 
 :::Solution
 
-@[Algo]({"stubs":["corrections/mission5b.adb"],"command":"sh start.sh corrections/mission5b.adb","project":"collec"})
+@[Algo]({"stubs":["corrections/mission5b.adb"],"command":"sh start.sh corrections/mission5b.adb","project":"S1_collec"})
 
 :::

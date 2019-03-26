@@ -2,7 +2,7 @@
 
 Ecrivez une procédure sans argument `Tout_Afficher` qui affiche la liste de tous les rois avec leur date de règne.
 
-![Tout_afficher](/ressources/collec/Tout_Afficher.png)
+![Tout_afficher](/ressources/S1/collec/Tout_Afficher.png)
 
 Vos tests doivent afficher :
 
@@ -20,10 +20,10 @@ Pour tester, affichez le nom et les dates du roi ayant régné le plus longtemps
 
 Écrire une fonction qui trouve le roi ayant régné le moins longtemps. Votre fonction doit continuer à fonctionner si, à l'avenir, la liste est modifiée.
 
-@[Algo]({"stubs":["mission5.adb"],"command":"sh start.sh mission5.adb","project":"collec"})
+@[Algo]({"stubs":["mission5.adb"],"command":"sh start.sh mission5.adb","project":"S1_collec"})
 
 ::: Soluce
 
-@[Algo]({"stubs":["corrections/mission5.adb"],"command":"sh start.sh corrections/mission5.adb","project":"collec"})
+@[Algo]({"stubs":["corrections/mission5.adb"],"command":"sh start.sh corrections/mission5.adb","project":"S1_collec"})
 
 :::

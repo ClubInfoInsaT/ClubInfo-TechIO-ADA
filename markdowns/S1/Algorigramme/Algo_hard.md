@@ -4,10 +4,10 @@ Attention cet exercice est un peu plus difficile que le niveau attendu à l'exam
 
 Ajoutez une fonction `secret` qui correspond à l'algorigramme suivant :
 
-![AlgoHardMax](/ressources/Algorigramme/algo_complet_exam.png)
+![AlgoHardMax](/ressources/S1/Algorigramme/algo_complet_exam.png)
 
 
-@[Algorigramme]({"stubs":["mission8.adb"],"command":"sh start.sh mission8.adb","project":"Algorigramme"})
+@[Algorigramme]({"stubs":["mission8.adb"],"command":"sh start.sh mission8.adb","project":"S1_Algorigramme"})
 
 Vous pouvez tester en affichant les valeurs pour N = 1 jusqu'à N = 10 et vous devriez obtenir : 
 
@@ -15,6 +15,6 @@ Vous pouvez tester en affichant les valeurs pour N = 1 jusqu'à N = 10 et vous d
 
 ::: Solution
 
-@[Algorigramme]({"stubs":["correction/mission8.adb"],"command":"sh start.sh correction/mission8.adb","project":"Algorigramme"})
+@[Algorigramme]({"stubs":["correction/mission8.adb"],"command":"sh start.sh correction/mission8.adb","project":"S1_Algorigramme"})
 
 :::

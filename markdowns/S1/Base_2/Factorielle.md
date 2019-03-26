@@ -6,9 +6,9 @@
 
 * Ecrivez la fonction `factorielle`, en respectant la déclaration suivante :
 
-![Factorielle](/ressources/Base_2/Factorielle.png)
+![Factorielle](/ressources/S1/Base_2/Factorielle.png)
 
-@[Factorielle]({"stubs":["mission1.adb"],"command":"sh start.sh mission1.adb","project":"Base_2"})
+@[Factorielle]({"stubs":["mission1.adb"],"command":"sh start.sh mission1.adb","project":"S1_Base_2"})
 
 
 * Écrivez une procédure de test pertinente, et invoquez votre procédure de test pour les entiers de 0 à 8.

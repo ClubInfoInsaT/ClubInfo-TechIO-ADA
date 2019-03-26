@@ -7,4 +7,4 @@
 * La fonction racine carrée traîne quelque part dans l'acteur Cartographie.
 * Testez votre procédure en l'invoquant avec diverses valeurs. 
 
-@[Résolution de polynômes du 2nd degré]({"stubs":["mission4.adb"],"command":"sh start.sh mission4.adb","project":"Base_2"})
+@[Résolution de polynômes du 2nd degré]({"stubs":["mission4.adb"],"command":"sh start.sh mission4.adb","project":"S1_Base_2"})
