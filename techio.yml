@@ -9,71 +9,71 @@ plan:
   description: "Exercices de bases."
   plan:
   - title : "Appels de fonctions et procédures"
-    statement: markdowns/Base/Base_appel_1.md
+    statement: markdowns/S1/Base/Base_appel_1.md
   - title : "Appel de fonction"
-    statement: markdowns/Base/Base_appel_2.md
+    statement: markdowns/S1/Base/Base_appel_2.md
   - title : "Comment récupérer le résultat d'une fonction"
-    statement: markdowns/Base/Base_appel_3.md
+    statement: markdowns/S1/Base/Base_appel_3.md
 - title: "Exercices divers"
   description: "Exercices de base 2."
   plan:
   - title: "Factorielle"
-    statement : markdowns/Base_2/Factorielle.md
+    statement : markdowns/S1/Base_2/Factorielle.md
   - title: "Somme de 1 à n"
-    statement : markdowns/Base_2/Somme.md
+    statement : markdowns/S1/Base_2/Somme.md
   - title: "Calcul de min,max et moyenne"
-    statement : markdowns/Base_2/max-min.md
+    statement : markdowns/S1/Base_2/max-min.md
   - title: "Résolution de polynomes du 2nd degré."
-    statement: markdowns/Base_2/polynome.md
+    statement: markdowns/S1/Base_2/polynome.md
 - title: "Conversion d'algorigramme"
   description: "Conversion d'algorigramme"
   plan:
   - title: "Algorigramme simple"
-    statement: markdowns/Algorigramme/Algo_simple.md
+    statement: markdowns/S1/Algorigramme/Algo_simple.md
   - title: "Algorigramme complet"
-    statement: markdowns/Algorigramme/Algo_complet.md
+    statement: markdowns/S1/Algorigramme/Algo_complet.md
   - title: "Algorigramme Complet > Exam"
-    statement: markdowns/Algorigramme/Algo_hard.md
+    statement: markdowns/S1/Algorigramme/Algo_hard.md
 - title: "Passage d'arguments et type article"
   description: "Passage d'arguments et type article"
   plan:
   - title: "Type record en argument d'une procédure"
-    statement: markdowns/t_article/Afficher.md
+    statement: markdowns/S1/t_article/Afficher.md
 - title: "Exercice sur une collection de données"
   description: "Exercice pour gérer les collections de données."
   plan:
   - title: "Recherche d'extremum"
-    statement: markdowns/collec/Exo1.md
+    statement: markdowns/S1/collec/Exo1.md
   - title: "Exercice complet sur une collection"
-    statement: markdowns/collec/Exo2.md
+    statement: markdowns/S1/collec/Exo2.md
 - title: "Bonus"
   description: "Bonus content"
   plan:
   - title: Exercice 1
-    statement : markdowns/Bonus/exo1.md
+    statement : markdowns/S1/Bonus/exo1.md
   - title : Exercice 2
-    statement : markdowns/Bonus/exo2.md
+    statement : markdowns/S1/Bonus/exo2.md
   - title : Test 3
-    statement : markdowns/Bonus/exo3.md
+    statement : markdowns/S1/Bonus/exo3.md
 
 
 
 projects:
   Base_appel:    
-    root: /projets/Base_appel
+    root: /projets/S1/Base_appel
     runner: walleza1/insa_ada:latest
   Base_2:
-    root: /projets/Base_2
+    root: /projets/S1/Base_2
     runner: walleza1/insa_ada:latest
   Bonus:
-    root: /projets/Bonus
+    root: /projets/S1/Bonus
     runner: walleza1/insa_ada:latest
   Algorigramme:
-    root: /projets/Algorigramme
+    root: /projets/S1/Algorigramme
     runner: walleza1/insa_ada:latest
   t_article:
-    root: /projets/t_article
+    root: /projets/S1/t_article
     runner: walleza1/insa_ada:latest
   collec:
-    root: /projets/collec
+    root: /projets/S1/collec
     runner: walleza1/insa_ada:latest
