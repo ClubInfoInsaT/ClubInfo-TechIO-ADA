@@ -59,21 +59,21 @@ plan:
 
 
 projects:
-  Base_appel:    
+  S1_Base_appel:    
     root: /projets/S1/Base_appel
     runner: walleza1/insa_ada:latest
-  Base_2:
+  S1_Base_2:
     root: /projets/S1/Base_2
     runner: walleza1/insa_ada:latest
-  Bonus:
+  S1_Bonus:
     root: /projets/S1/Bonus
     runner: walleza1/insa_ada:latest
-  Algorigramme:
+  S1_Algorigramme:
     root: /projets/S1/Algorigramme
     runner: walleza1/insa_ada:latest
-  t_article:
+  S1_t_article:
     root: /projets/S1/t_article
     runner: walleza1/insa_ada:latest
-  collec:
+  S1_collec:
     root: /projets/S1/collec
     runner: walleza1/insa_ada:latest
